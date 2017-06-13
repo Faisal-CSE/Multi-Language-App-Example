@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.dd.MainActivity" >
+
+    <item
+        android:id="@+id/action_english"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_english_lang"/>
+    
+    <item
+        android:id="@+id/action_bangla"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_bangla_lang"/>
+    
+    <item
+        android:id="@+id/action_hindi"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_hindi_lang"/>
+
+</menu>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Multi Language</string>
+    <string name="hello_world">Welcome to Team Allegiance 13</string>
+    <string name="action_english_lang">English</string>
+    <string name="action_bangla_lang">Bangla</string>
+    <string name="action_hindi_lang">Hindi</string>
+    
+    
+    
+    
+    <string name="btneng">Click</string>
+    <string name="say_hello">I love my country !</string>
+
+</resources>

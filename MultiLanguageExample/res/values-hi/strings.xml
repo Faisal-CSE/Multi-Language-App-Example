@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Multi Language</string>
+    <string name="hello_world">टीम ईश्वर 13 में आपका स्वागत है</string>
+    <string name="action_english_lang">अंग्रेज़ी</string>
+    <string name="action_bangla_lang">बांग्ला</string>
+    <string name="action_hindi_lang">हिंदी </string>
+    
+    
+    
+    
+    <string name="btneng">क्लिक करें</string>
+    <string name="say_hello">मुझे अपने देश से प्यार है !</string>
+
+</resources>

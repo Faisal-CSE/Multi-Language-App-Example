@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Multi Language</string>
+    <string name="hello_world">স্বাগতম টিম এলিগেন্স ১৩</string>
+    
+    <string name="action_english_lang">ইংলিশ</string>
+    <string name="action_bangla_lang">বাংলা</string>
+    <string name="action_hindi_lang">হিন্দী </string>
+    
+    <string name="btneng">ক্লিক করুন </string>
+    <string name="say_hello">আমি আমার দেশকে ভালোবাসি   !</string>
+
+</resources>
